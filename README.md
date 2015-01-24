@@ -13,9 +13,9 @@ contact: tybyers@gmail.com
 The grader or other viewer may find my applicable project deliverables at:
 
  * Final Project Write-up: ** link here **
- * Python code to Lesson 6 questions: The 'code_exercises' directory in this repo.
- * Map Area of Choice: see 'maparea.md' in this repo.
- * References: see 'References.md' in this repo.
+ * Python code to Lesson 6 questions: The **./code_exercises/** directory in this repo.
+ * Map Area of Choice: see **maparea.md** in this repo.
+ * References: see **References.md** in this repo.
  
 Other files in this repo:
 
@@ -24,6 +24,10 @@ Other files in this repo:
  * **PUT LINK TO EXPLORING_DATA IPYNB here.**
  * **map_summitco.xml** -- XML file downloaded from the Overpass API -- all map data
  * **./data/map_summitco.json** -- JSON file of the cleaned map data
+ 
+ Viewable exploring_data.ipynb: http://nbviewer.ipython.org/github/tybyers/MongoDB_finalproject/blob/master/exploring_data.ipynb
+ 
+ 
 
 
 
