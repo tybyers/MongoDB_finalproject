@@ -1,14 +1,32 @@
 # MongoDB_final_project
 
+This is the repository for my "Wrangle OpenStreetMaps Data" project for the Intro to MongoDB course, which I am taking as part of the Udacity Data Analyst Nanodegree.
 
-Map Link: http://www.openstreetmap.org/#map=9/39.8138/-105.9302
-Used smaller area: <bounds minlat="39.5125" minlon="-106.576" maxlat="39.994" maxlon="-104.694"/>
-Along I-70 between Denver and ski areas
+By: Tyler Byers
 
-Problem:  Originally tried Denver/Boulder area from MapZen, but was only 37.5 MB (check this)
-* Then tried box of Denver/Boulder area to include mountains; canceled downloads once reaached 125 MB
-* Tried again, again canx d/l
+Date: 24 January 2015
 
-Focused on Summit County and Vail
-http://www.openstreetmap.org/#map=11/39.5657/-106.2282
-File size: 89 MB
+contact: tybyers@gmail.com
+
+## Project Deliverables
+
+The grader or other viewer may find my applicable project deliverables at:
+
+ * Final Project Write-up: ** link here **
+ * Python code to Lesson 6 questions: The 'code_exercises' directory in this repo.
+ * Map Area of Choice: see 'maparea.md' in this repo.
+ * References: see 'References.md' in this repo.
+ 
+Other files in this repo:
+
+ * exloring_data.ipynb - iPython notebook containing my data exploration, cleaning, writing to MongoDB, and querying MongoDB.
+ * final_writeup.ipynb - iPython notebook containing the raw markdown for the final project
+ * ** PUT LINK TO EXPLORING_DATA IPYNB here.
+ * map_summitco.xml -- XML file downloaded from the Overpass API -- all map data
+ * ./data/map_summitco.json -- JSON file of the cleaned map data
+
+
+
+
+
+
