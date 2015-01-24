@@ -1,4 +1,4 @@
-# MongoDB_final_project
+# MongoDB Final Project
 
 This is the repository for my "Wrangle OpenStreetMaps Data" project for the Intro to MongoDB course, which I am taking as part of the Udacity Data Analyst Nanodegree.
 
@@ -19,11 +19,11 @@ The grader or other viewer may find my applicable project deliverables at:
  
 Other files in this repo:
 
- * exloring_data.ipynb - iPython notebook containing my data exploration, cleaning, writing to MongoDB, and querying MongoDB.
- * final_writeup.ipynb - iPython notebook containing the raw markdown for the final project
- * ** PUT LINK TO EXPLORING_DATA IPYNB here.
- * map_summitco.xml -- XML file downloaded from the Overpass API -- all map data
- * ./data/map_summitco.json -- JSON file of the cleaned map data
+ * **exloring_data.ipynb** - iPython notebook containing my data exploration, cleaning, writing to MongoDB, and querying MongoDB.
+ * **final_writeup.ipynb** - iPython notebook containing the raw markdown for the final project
+ * **PUT LINK TO EXPLORING_DATA IPYNB here.**
+ * **map_summitco.xml** -- XML file downloaded from the Overpass API -- all map data
+ * **./data/map_summitco.json** -- JSON file of the cleaned map data
 
 
 
