@@ -1,4 +1,4 @@
-### References for this project --
+### References for this project
 
 I relied heavily on the OpenStreetMap documentation: http://wiki.openstreetmap.org/wiki/Main_Page
 
