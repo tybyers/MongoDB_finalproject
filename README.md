@@ -17,11 +17,9 @@ The grader or other viewer may find my applicable project deliverables at:
  * Map Area of Choice: **maparea.md** in this repo.
  * References: **References.md** in this repo.
  
-Other files in this repo:
+## Other files in this repo:
 
  * **exploring_data.ipynb** - iPython notebook containing my data exploration, cleaning, writing to MongoDB, and querying MongoDB.  View at [nbviewer](http://nbviewer.ipython.org/github/tybyers/MongoDB_finalproject/blob/master/exploring_data.ipynb)
- * **final_writeup.ipynb** - iPython notebook containing the raw markdown for the final project.  View at [nbviewer](http://nbviewer.ipython.org/github/tybyers/MongoDB_finalproject/blob/master/final_writeup.ipynb)
- * **final_writeup.html** - HTML rendering of the final_writeup notebook
  * **map_summitco.xml** -- XML file downloaded from the Overpass API -- all map data
  * **/data/map_summitco.json** -- JSON file of the cleaned map data
  
